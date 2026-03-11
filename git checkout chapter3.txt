@@ -1,0 +1,9 @@
+[1mdiff --git a/chapter3.txt b/chapter3.txt[m
+[1mindex 7811b30..e665dde 100644[m
+[1m--- a/chapter3.txt[m
+[1m+++ b/chapter3.txt[m
+[36m@@ -1 +1 @@[m
+[31m-I guess i might take a while to find this person I just need a good friend whom i can really feel damn bonded to girl or guy[m
+\ No newline at end of file[m
+[32m+[m[32mI guess i might take a while to find this person I just need a good friend whom i can really feel damn bonded to girl or guy, JUST DON'T FUCKING GIVE UP SINCE WHEN HAVE YOU BEEN SOMEONE WHO GAVE THE FUCK UP NIGGA[m[41m [m
+\ No newline at end of file[m
